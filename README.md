@@ -1,5 +1,6 @@
 # codealpha_task1
-Age Calculator
+
+# Age Calculator
 This Age Calculator is a simple web-based tool built using JavaScript that allows users to calculate their age based on their date of birth, month, and year. Leveraging JavaScript's built-in date and time functions, the application simplifies the age calculation process, providing users with an accurate representation of their current age.
 
 # Features:
